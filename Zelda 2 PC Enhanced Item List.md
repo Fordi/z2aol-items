@@ -17,7 +17,7 @@ This list contains spoilers so please view at your own risk.
 * Keys: These items are only found in Temples/Palaces. Use these to open locked doors.
 * ![Crystal](./images/crystal.gif) Crystals: Place these at the end of a palace/temple to complete it and gain XP up to your next level up. You start the game will all 6.
 * Gold Slimes: Defeating all 12 of these will unlock a secret in north castle.
-* Candle: This item will allow you to see better in dark rooms and caves. You can also light torches to fully illuminate rooms.
+* ![Candle](./images/candle.png) Candle: This item will allow you to see better in dark rooms and caves. You can also light torches to fully illuminate rooms.
 * Handy Glove: This item will let you break certain blocks.
 * Hammer: This item will allow you to break boulders on the overworld
 * Raft: Allows you to cross bodies of water when used at docks.
