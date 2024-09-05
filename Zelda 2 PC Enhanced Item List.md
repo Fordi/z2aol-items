@@ -27,10 +27,12 @@ This list contains spoilers so please view at your own risk.
 * Skeleton key: This key will give you infinite keys for all temples/palaces.
 * Mask: A quest 2 exclusive item. It will allow you to mingle with the residents of Bulblin.
 * Blood Flask: A quest 2 exlusive item. This is used to extract dark link's blood.
-* These items are not required for game completion. They only serve to make things easier.
+
 
 ## Optional Items
 
+> These items are not required for game completion. They only serve to make things easier.
+> 
 * Red Fairy: This helpful friend will save you from dying in water or lava. You will still lose 2 blocks of health regardless of Defense power.
 * Book Of Mudora: This book will translate hylian into english.
 * Meat: This item will bait overworld enemies towards it. This item has a short cooldown before it can be used again. This item is automatically used whenever it is not on cooldown.
@@ -38,9 +40,11 @@ This list contains spoilers so please view at your own risk.
 * Red Ring: This item will reduce damage taken. The protect spell can be stacked on top of this item for further damage reduction.
 * Pendant: this item will slowly regenerate your magic meter but only during side scrolling sections.
 * Level 2 Sword: This item will allow you to damage enemies that could not be damaged by your level 1 sword. Your melee range will be slightly increased, your sword beams will travel farther and faster. Lastly, the sword beams will only be lost after losing 1 block of life.
-* Items used to access houses with wise men aside from 1 item. Not all towns require a town item.
+
 
 ## Town quest items
+
+> Items used to access houses with wise men aside from 1 item. Not all towns require a town item.
 
 * Trophy: Used in the 2nd town, Rauru to gain the protect spell.
 * Bagu's note: used to cross the river in town 3, saria.
