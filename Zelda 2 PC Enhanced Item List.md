@@ -32,7 +32,7 @@ This list contains spoilers so please view at your own risk.
 ## Optional Items
 
 > These items are not required for game completion. They only serve to make things easier.
-> 
+
 * Red Fairy: This helpful friend will save you from dying in water or lava. You will still lose 2 blocks of health regardless of Defense power.
 * Book Of Mudora: This book will translate hylian into english.
 * Meat: This item will bait overworld enemies towards it. This item has a short cooldown before it can be used again. This item is automatically used whenever it is not on cooldown.
